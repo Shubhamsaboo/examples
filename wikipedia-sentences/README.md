@@ -168,7 +168,6 @@ Here is a small overview if you're interested in understanding what each file in
 
 ## 🌀 Flow diagram
 
-<<<<<<< HEAD
 This diagram provides a visual representation of the two Flows in this example, showing which Executors are used in which order.
 
 ![116664240-7bad2500-a998-11eb-90fa-1d1268806602](https://user-images.githubusercontent.com/59612379/116871566-bde29a80-ac14-11eb-84d8-26b5b48dee81.jpeg)
